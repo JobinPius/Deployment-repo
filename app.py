@@ -32,5 +32,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [Jobin Pius](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/README.md) | \
+    '`Create by` [Jobin Pius](https://github.com/JobinPius) | \
          `Code:` [GitHub](https://github.com/JobinPius/Deployment-repo/edit/main/app.py)')
